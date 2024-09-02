@@ -3,3 +3,5 @@
 [Lab 01:](https://github.com/Sathvikapolepelly/AIML-2025/blob/main/aiml%201.txt) Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources.
 
 [Lab 02:](https://github.com/Sathvikapolepelly/AIML-2025/blob/main/aiml%202.txt) Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python.
+
+[Lab 04:](https://github.com/SarayuBurugu/AIML-2025/blob/main/lab4.ipynb)Implement Linear Regression using Boston Housing Data
